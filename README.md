@@ -11,13 +11,13 @@
 
 <p align="center">
     <img src="screenshots/menu.png">
-    <br />
+    <br>
 
     <img src="screenshots/game.png">
-    <br />
+    <br>
 
     <img src="screenshots/scoreboard.png">
-    <br />
+    <br>
 </p>
 
 <!-- TABLE OF CONTENTS -->
