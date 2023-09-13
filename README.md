@@ -1,5 +1,4 @@
 # Duck Hunt 3D
-
 <br />
 <p align="center">
   <h3 align="center">Overview</h3>
@@ -8,15 +7,17 @@
   <br />
 </p>
 
-<h5 align="center">Screenshots</h5>
+<h3 align="center">Screenshots</h5>
 
 <p align="center">
     <img src="screenshots/menu.png">
-    <br>
+    <br />
+
     <img src="screenshots/game.png">
-    <br>
+    <br />
+
     <img src="screenshots/scoreboard.png">
-    <br>
+    <br />
 </p>
 
 <!-- TABLE OF CONTENTS -->
