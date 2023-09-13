@@ -12,10 +12,8 @@
 <p align="center">
     <img src="screenshots/menu.png">
     <br>
-
     <img src="screenshots/game.png">
     <br>
-
     <img src="screenshots/scoreboard.png">
     <br>
 </p>
